@@ -1,1 +1,1 @@
-python print("Hello, automation!
+print("Hello, automation!")
